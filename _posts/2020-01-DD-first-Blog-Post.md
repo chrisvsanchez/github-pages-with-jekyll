@@ -1,3 +1,10 @@
-# Day 1 
+--
+layout: post
+title:  "First Blog Post"
+---
 
-How it all began. 
+# Welcome
+
+**Hello world**, this is my first blog post.
+
+I hope you like it!
